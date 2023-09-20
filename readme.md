@@ -1,6 +1,6 @@
 Hola, soy Enzo Astorga!
 
-# 💫 Sobre mí:
+# 👨🏻‍💻 Sobre mí:
 Estudiante de Tecnicatura Universitaria en Programación(en curso).
 
 # 📊 GitHub Stats:
