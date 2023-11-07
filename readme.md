@@ -1,4 +1,4 @@
-<h1 align="center">Hola! Soy Enzo Astorga! 👨🏻‍💻</h1>
+<h1 align="center">Hola! Soy Enzo Astorga 👨🏻‍💻</h1>
 📚 Estudiante de Tecnicatura Universitaria en Programación UTN San Rafael(en curso). 
 
 📚 Pertenezco al Grupo 4️⃣0️⃣4️⃣ Not Found.
